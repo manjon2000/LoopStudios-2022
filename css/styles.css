@@ -18,7 +18,9 @@ body {
   overflow-x: hidden !important;
   font-family: 'Alata', sans-serif;
 }
-
+.card-title h3{
+  font-family: 'Josefin Sans', sans-serif
+}
 #header {
   width: 100%;
   height: 100vh;
